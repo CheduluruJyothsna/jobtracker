@@ -1,0 +1,9 @@
+# Query: basename="/jobtrackerapp"
+# ContextLines: 1
+
+1 result - 1 file
+
+src\App.jsx:
+  14    return (
+  15:     <BrowserRouter basename="/jobtracker">
+  16  
